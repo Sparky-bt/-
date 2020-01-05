@@ -10,9 +10,9 @@ http://wcx1999.pythonanywhere.com/
 ### 加分项：dash的使用
 代码及文件已放在仓库
 
-![](https://github.com/Sparky-bt/Interactive_Visual_final/blob/master/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200105215010.png)
+![cmd](https://github.com/Sparky-bt/Interactive_Visual_final/blob/master/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200105215010.png)
 
-![](https://github.com/Sparky-bt/Interactive_Visual_final/blob/master/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200105215023.png)
+![dash](https://github.com/Sparky-bt/Interactive_Visual_final/blob/master/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200105215023.png)
 
 ### 项目简介
 初步分析：先分析发达国家与发展中国家的关系，接着分析少儿抚养比的关系，提出初步假设：国家的GDP与少儿抚养比成反比。
