@@ -7,7 +7,6 @@ https://sparky-bt.github.io/Interactive_Visual_final/
 ### pythonanywhere链接：
 http://wcx1999.pythonanywhere.com/
 
-
 ### 项目简介
 初步分析：先分析发达国家与发展中国家的关系，接着分析少儿抚养比的关系，提出初步假设：国家的GDP与少儿抚养比成反比。
 
@@ -25,6 +24,7 @@ plotly或pyechart制作图表
 交互按钮
 dash
 flask
+css样式
 
 ### 结论
 我的结论是国家的经济发展水平与国家少儿抚养比成反比。假设成立。
