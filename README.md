@@ -1,5 +1,5 @@
 # 研究项目
-世界儿童抚养比与世界各国GDP之间的关系研究。
+**世界儿童抚养比与世界各国GDP之间的关系研究。**
 
 ### 交互式可视化数据故事
 https://sparky-bt.github.io/Interactive_Visual_final/
