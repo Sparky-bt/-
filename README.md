@@ -1,7 +1,7 @@
 # 研究项目
 **世界儿童抚养比与世界各国GDP之间的关系研究。**
 
-### 交互式可视化数据故事
+### 交互式可视化数据故事（因为师妹忘记把数据故事放在pythonanywhere网站上，所以数据故事在html文件里，谢谢啦）
 https://sparky-bt.github.io/Interactive_Visual_final/
 
 ### pythonanywhere链接：
